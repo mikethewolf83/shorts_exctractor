@@ -16,6 +16,9 @@ out/
 *.user
 *.suo
 *.swp
+*.claude/
+*.remember/
+examples/
 *~
 
 # Test output

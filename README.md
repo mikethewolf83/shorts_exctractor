@@ -1,5 +1,7 @@
 # YouTube Shorts Extractor
 
+![YouTube Shorts Extractor](https://mikethewolf83.github.io/assets/img/shorts_extractor.jpg)
+
 A command-line tool to extract short-form vertical videos (Shorts/Reels/TikToks) from longer video files. Automatically crops to 9:16 aspect ratio and applies fade-in/out effects.
 
 ## Features
